@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-04 00:23:00.000
+timestamp_end=2026-08-04 00:23:04.443
+station=FCT1
+line=Line-D
+server_node=srv-prod-sim-03
+fixture_id=FCT1-FX-03
+operator_id=OP004
+model=R5-IO
+serial_number=FCT1-20260804-0066
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=4443
+measurements=VIN=11.701V; BOOT_TIME=1357ms; UART_ERR=3; SENSOR_OFFSET=0.079
+log_note=Fake simulation log for offline validation only

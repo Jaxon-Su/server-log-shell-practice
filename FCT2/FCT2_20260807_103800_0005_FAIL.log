@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-07 10:38:00.000
+timestamp_end=2026-08-07 10:38:06.974
+station=FCT2
+line=Line-C
+server_node=srv-prod-sim-02
+fixture_id=FCT2-FX-07
+operator_id=OP004
+model=MX-100B
+serial_number=FCT2-20260807-0005
+test_result=FAIL
+error_code=FCT2-E520
+error_meaning=Final label verification mismatch
+duration_ms=6974
+measurements=RF_RSSI=-74dBm; FW_CRC=0x566C0577; TEMP_RISE=19.23C; NETWORK_RTT=65ms
+log_note=Fake simulation log for offline validation only

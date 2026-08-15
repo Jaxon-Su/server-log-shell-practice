@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-07 00:50:00.000
+timestamp_end=2026-08-07 00:50:05.590
+station=FCT2
+line=Line-C
+server_node=srv-prod-sim-04
+fixture_id=FCT2-FX-04
+operator_id=OP002
+model=MX-100A
+serial_number=FCT2-20260807-0028
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=5590
+measurements=RF_RSSI=-79dBm; FW_CRC=0x3DA01908; TEMP_RISE=9.93C; NETWORK_RTT=87ms
+log_note=Fake simulation log for offline validation only

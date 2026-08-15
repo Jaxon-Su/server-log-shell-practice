@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-01 21:46:00.000
+timestamp_end=2026-08-01 21:46:08.158
+station=FCT1
+line=Line-B
+server_node=srv-prod-sim-04
+fixture_id=FCT1-FX-03
+operator_id=OP003
+model=Q7-CTRL
+serial_number=FCT1-20260801-0023
+test_result=FAIL
+error_code=FCT1-E120
+error_meaning=Boot sequence timeout
+duration_ms=8158
+measurements=VIN=11.845V; BOOT_TIME=1123ms; UART_ERR=0; SENSOR_OFFSET=-0.048
+log_note=Fake simulation log for offline validation only

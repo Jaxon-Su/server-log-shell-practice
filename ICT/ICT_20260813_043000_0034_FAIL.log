@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-13 04:30:00.000
+timestamp_end=2026-08-13 04:30:07.410
+station=ICT
+line=Line-A
+server_node=srv-prod-sim-03
+fixture_id=ICT-FX-07
+operator_id=OP003
+model=MX-100A
+serial_number=ICT-20260813-0034
+test_result=FAIL
+error_code=ICT-E101
+error_meaning=Open circuit detected on test point
+duration_ms=7410
+measurements=TP_VIN=11.966V; TP_3V3=3.328V; R_ISENSE=100.07ohm; CONTACT_RES=0.28ohm
+log_note=Fake simulation log for offline validation only

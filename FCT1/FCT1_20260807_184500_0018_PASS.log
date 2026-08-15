@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-07 18:45:00.000
+timestamp_end=2026-08-07 18:45:03.592
+station=FCT1
+line=Line-B
+server_node=srv-prod-sim-01
+fixture_id=FCT1-FX-04
+operator_id=OP003
+model=Q7-CTRL
+serial_number=FCT1-20260807-0018
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=3592
+measurements=VIN=12.331V; BOOT_TIME=1304ms; UART_ERR=0; SENSOR_OFFSET=0.019
+log_note=Fake simulation log for offline validation only

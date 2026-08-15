@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-04 16:40:00.000
+timestamp_end=2026-08-04 16:40:03.207
+station=FCT2
+line=Line-D
+server_node=srv-prod-sim-01
+fixture_id=FCT2-FX-06
+operator_id=OP002
+model=R5-IO
+serial_number=FCT2-20260804-0015
+test_result=FAIL
+error_code=FCT2-E320
+error_meaning=Thermal response outside expected range
+duration_ms=3207
+measurements=RF_RSSI=-82dBm; FW_CRC=0x3414DC3C; TEMP_RISE=7.61C; NETWORK_RTT=64ms
+log_note=Fake simulation log for offline validation only

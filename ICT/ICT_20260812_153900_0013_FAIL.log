@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-12 15:39:00.000
+timestamp_end=2026-08-12 15:39:02.950
+station=ICT
+line=Line-B
+server_node=srv-prod-sim-03
+fixture_id=ICT-FX-04
+operator_id=OP005
+model=R5-IO
+serial_number=ICT-20260812-0013
+test_result=FAIL
+error_code=ICT-E201
+error_meaning=Component value out of tolerance
+duration_ms=2950
+measurements=TP_VIN=12.022V; TP_3V3=3.353V; R_ISENSE=99.13ohm; CONTACT_RES=0.18ohm
+log_note=Fake simulation log for offline validation only

@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-09 11:54:00.000
+timestamp_end=2026-08-09 11:54:01.719
+station=ICT
+line=Line-C
+server_node=srv-prod-sim-01
+fixture_id=ICT-FX-01
+operator_id=OP005
+model=R5-IO
+serial_number=ICT-20260809-0046
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=1719
+measurements=TP_VIN=12.318V; TP_3V3=3.279V; R_ISENSE=98.64ohm; CONTACT_RES=0.31ohm
+log_note=Fake simulation log for offline validation only

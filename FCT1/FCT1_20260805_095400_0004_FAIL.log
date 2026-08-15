@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-05 09:54:00.000
+timestamp_end=2026-08-05 09:54:09.027
+station=FCT1
+line=Line-C
+server_node=srv-prod-sim-03
+fixture_id=FCT1-FX-05
+operator_id=OP001
+model=MX-100B
+serial_number=FCT1-20260805-0004
+test_result=FAIL
+error_code=FCT1-E210
+error_meaning=UART loopback communication failed
+duration_ms=9027
+measurements=VIN=12.079V; BOOT_TIME=1322ms; UART_ERR=2; SENSOR_OFFSET=0.034
+log_note=Fake simulation log for offline validation only

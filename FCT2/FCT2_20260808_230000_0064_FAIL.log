@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-08 23:00:00.000
+timestamp_end=2026-08-08 23:00:01.190
+station=FCT2
+line=Line-D
+server_node=srv-prod-sim-02
+fixture_id=FCT2-FX-07
+operator_id=OP004
+model=NX-240
+serial_number=FCT2-20260808-0064
+test_result=FAIL
+error_code=FCT2-E420
+error_meaning=Network handshake failed
+duration_ms=1190
+measurements=RF_RSSI=-53dBm; FW_CRC=0x1A166050; TEMP_RISE=9.86C; NETWORK_RTT=11ms
+log_note=Fake simulation log for offline validation only

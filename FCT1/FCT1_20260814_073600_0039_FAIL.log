@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 07:36:00.000
+timestamp_end=2026-08-14 07:36:07.405
+station=FCT1
+line=Line-B
+server_node=srv-prod-sim-03
+fixture_id=FCT1-FX-05
+operator_id=OP002
+model=R5-IO
+serial_number=FCT1-20260814-0039
+test_result=FAIL
+error_code=FCT1-E210
+error_meaning=UART loopback communication failed
+duration_ms=7405
+measurements=VIN=11.995V; BOOT_TIME=1081ms; UART_ERR=2; SENSOR_OFFSET=-0.064
+log_note=Fake simulation log for offline validation only

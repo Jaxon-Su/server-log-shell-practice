@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-03 23:33:00.000
+timestamp_end=2026-08-03 23:33:04.941
+station=FCT2
+line=Line-D
+server_node=srv-prod-sim-04
+fixture_id=FCT2-FX-06
+operator_id=OP002
+model=MX-100A
+serial_number=FCT2-20260803-0065
+test_result=FAIL
+error_code=FCT2-E420
+error_meaning=Network handshake failed
+duration_ms=4941
+measurements=RF_RSSI=-52dBm; FW_CRC=0x124A53CF; TEMP_RISE=3.73C; NETWORK_RTT=77ms
+log_note=Fake simulation log for offline validation only

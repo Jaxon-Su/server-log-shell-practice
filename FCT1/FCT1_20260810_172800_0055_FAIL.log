@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-10 17:28:00.000
+timestamp_end=2026-08-10 17:28:05.629
+station=FCT1
+line=Line-A
+server_node=srv-prod-sim-02
+fixture_id=FCT1-FX-07
+operator_id=OP001
+model=Q7-CTRL
+serial_number=FCT1-20260810-0055
+test_result=FAIL
+error_code=FCT1-E210
+error_meaning=UART loopback communication failed
+duration_ms=5629
+measurements=VIN=12.343V; BOOT_TIME=1729ms; UART_ERR=0; SENSOR_OFFSET=0.014
+log_note=Fake simulation log for offline validation only

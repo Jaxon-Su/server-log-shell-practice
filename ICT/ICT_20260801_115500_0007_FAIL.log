@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-01 11:55:00.000
+timestamp_end=2026-08-01 11:55:01.027
+station=ICT
+line=Line-B
+server_node=srv-prod-sim-02
+fixture_id=ICT-FX-06
+operator_id=OP003
+model=R5-IO
+serial_number=ICT-20260801-0007
+test_result=FAIL
+error_code=ICT-E102
+error_meaning=Short circuit detected between adjacent nets
+duration_ms=1027
+measurements=TP_VIN=12.085V; TP_3V3=3.289V; R_ISENSE=100.89ohm; CONTACT_RES=0.28ohm
+log_note=Fake simulation log for offline validation only

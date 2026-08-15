@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 22:59:00.000
+timestamp_end=2026-08-14 22:59:05.339
+station=FCT1
+line=Line-D
+server_node=srv-prod-sim-02
+fixture_id=FCT1-FX-03
+operator_id=OP003
+model=MX-100A
+serial_number=FCT1-20260814-0064
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=5339
+measurements=VIN=12.215V; BOOT_TIME=540ms; UART_ERR=1; SENSOR_OFFSET=-0.028
+log_note=Fake simulation log for offline validation only

@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-13 15:27:00.000
+timestamp_end=2026-08-13 15:27:07.886
+station=FCT1
+line=Line-C
+server_node=srv-prod-sim-03
+fixture_id=FCT1-FX-04
+operator_id=OP002
+model=NX-240
+serial_number=FCT1-20260813-0052
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=7886
+measurements=VIN=12.303V; BOOT_TIME=670ms; UART_ERR=3; SENSOR_OFFSET=-0.073
+log_note=Fake simulation log for offline validation only

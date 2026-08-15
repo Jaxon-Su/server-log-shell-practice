@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-08 11:54:00.000
+timestamp_end=2026-08-08 11:54:04.880
+station=FCT2
+line=Line-D
+server_node=srv-prod-sim-03
+fixture_id=FCT2-FX-05
+operator_id=OP003
+model=Q7-CTRL
+serial_number=FCT2-20260808-0007
+test_result=FAIL
+error_code=FCT2-E420
+error_meaning=Network handshake failed
+duration_ms=4880
+measurements=RF_RSSI=-73dBm; FW_CRC=0x653232BD; TEMP_RISE=10.00C; NETWORK_RTT=49ms
+log_note=Fake simulation log for offline validation only

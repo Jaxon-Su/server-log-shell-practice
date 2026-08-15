@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-01 23:34:00.000
+timestamp_end=2026-08-01 23:34:03.464
+station=ICT
+line=Line-B
+server_node=srv-prod-sim-04
+fixture_id=ICT-FX-05
+operator_id=OP001
+model=Q7-CTRL
+serial_number=ICT-20260801-0026
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=3464
+measurements=TP_VIN=12.259V; TP_3V3=3.362V; R_ISENSE=101.88ohm; CONTACT_RES=0.13ohm
+log_note=Fake simulation log for offline validation only

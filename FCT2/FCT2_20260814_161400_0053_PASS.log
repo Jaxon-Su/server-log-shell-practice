@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 16:14:00.000
+timestamp_end=2026-08-14 16:14:09.226
+station=FCT2
+line=Line-A
+server_node=srv-prod-sim-03
+fixture_id=FCT2-FX-01
+operator_id=OP001
+model=Q7-CTRL
+serial_number=FCT2-20260814-0053
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=9226
+measurements=RF_RSSI=-47dBm; FW_CRC=0x266BB7A4; TEMP_RISE=8.65C; NETWORK_RTT=36ms
+log_note=Fake simulation log for offline validation only

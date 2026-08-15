@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-12 02:37:00.000
+timestamp_end=2026-08-12 02:37:02.490
+station=FCT2
+line=Line-B
+server_node=srv-prod-sim-01
+fixture_id=FCT2-FX-05
+operator_id=OP002
+model=R5-IO
+serial_number=FCT2-20260812-0031
+test_result=FAIL
+error_code=FCT2-E520
+error_meaning=Final label verification mismatch
+duration_ms=2490
+measurements=RF_RSSI=-57dBm; FW_CRC=0x78815BC9; TEMP_RISE=5.32C; NETWORK_RTT=85ms
+log_note=Fake simulation log for offline validation only

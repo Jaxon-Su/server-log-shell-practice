@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 11:09:00.000
+timestamp_end=2026-08-14 11:09:05.653
+station=ICT
+line=Line-A
+server_node=srv-prod-sim-01
+fixture_id=ICT-FX-03
+operator_id=OP002
+model=NX-240
+serial_number=ICT-20260814-0045
+test_result=FAIL
+error_code=ICT-E401
+error_meaning=EEPROM pre-program check failed
+duration_ms=5653
+measurements=TP_VIN=11.897V; TP_3V3=3.356V; R_ISENSE=98.79ohm; CONTACT_RES=0.24ohm
+log_note=Fake simulation log for offline validation only

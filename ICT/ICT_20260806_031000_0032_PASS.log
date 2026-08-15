@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-06 03:10:00.000
+timestamp_end=2026-08-06 03:10:09.216
+station=ICT
+line=Line-C
+server_node=srv-prod-sim-04
+fixture_id=ICT-FX-07
+operator_id=OP001
+model=MX-100A
+serial_number=ICT-20260806-0032
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=9216
+measurements=TP_VIN=12.242V; TP_3V3=3.304V; R_ISENSE=101.00ohm; CONTACT_RES=0.14ohm
+log_note=Fake simulation log for offline validation only

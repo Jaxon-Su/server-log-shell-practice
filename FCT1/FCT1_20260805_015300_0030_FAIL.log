@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-05 01:53:00.000
+timestamp_end=2026-08-05 01:53:01.701
+station=FCT1
+line=Line-A
+server_node=srv-prod-sim-02
+fixture_id=FCT1-FX-03
+operator_id=OP004
+model=R5-IO
+serial_number=FCT1-20260805-0030
+test_result=FAIL
+error_code=FCT1-E310
+error_meaning=Sensor calibration drift exceeded limit
+duration_ms=1701
+measurements=VIN=11.819V; BOOT_TIME=1442ms; UART_ERR=2; SENSOR_OFFSET=0.079
+log_note=Fake simulation log for offline validation only

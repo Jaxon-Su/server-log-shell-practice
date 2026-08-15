@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-02 14:54:00.000
+timestamp_end=2026-08-02 14:54:07.977
+station=ICT
+line=Line-D
+server_node=srv-prod-sim-04
+fixture_id=ICT-FX-02
+operator_id=OP005
+model=MX-100A
+serial_number=ICT-20260802-0012
+test_result=FAIL
+error_code=ICT-E102
+error_meaning=Short circuit detected between adjacent nets
+duration_ms=7977
+measurements=TP_VIN=12.073V; TP_3V3=3.372V; R_ISENSE=99.63ohm; CONTACT_RES=0.13ohm
+log_note=Fake simulation log for offline validation only

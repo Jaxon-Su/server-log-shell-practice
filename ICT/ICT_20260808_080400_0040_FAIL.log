@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-08 08:04:00.000
+timestamp_end=2026-08-08 08:04:05.437
+station=ICT
+line=Line-C
+server_node=srv-prod-sim-04
+fixture_id=ICT-FX-02
+operator_id=OP005
+model=Q7-CTRL
+serial_number=ICT-20260808-0040
+test_result=FAIL
+error_code=ICT-E401
+error_meaning=EEPROM pre-program check failed
+duration_ms=5437
+measurements=TP_VIN=12.261V; TP_3V3=3.248V; R_ISENSE=100.82ohm; CONTACT_RES=0.26ohm
+log_note=Fake simulation log for offline validation only

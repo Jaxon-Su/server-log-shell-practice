@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-02 08:45:00.000
+timestamp_end=2026-08-02 08:45:07.180
+station=FCT1
+line=Line-A
+server_node=srv-prod-sim-02
+fixture_id=FCT1-FX-04
+operator_id=OP002
+model=MX-100A
+serial_number=FCT1-20260802-0041
+test_result=FAIL
+error_code=FCT1-E410
+error_meaning=Relay activation feedback mismatch
+duration_ms=7180
+measurements=VIN=12.064V; BOOT_TIME=927ms; UART_ERR=2; SENSOR_OFFSET=-0.076
+log_note=Fake simulation log for offline validation only

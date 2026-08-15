@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-07 18:08:00.000
+timestamp_end=2026-08-07 18:08:05.836
+station=ICT
+line=Line-B
+server_node=srv-prod-sim-04
+fixture_id=ICT-FX-03
+operator_id=OP002
+model=NX-240
+serial_number=ICT-20260807-0056
+test_result=FAIL
+error_code=ICT-E301
+error_meaning=Fixture probe contact unstable
+duration_ms=5836
+measurements=TP_VIN=11.999V; TP_3V3=3.256V; R_ISENSE=99.40ohm; CONTACT_RES=0.15ohm
+log_note=Fake simulation log for offline validation only

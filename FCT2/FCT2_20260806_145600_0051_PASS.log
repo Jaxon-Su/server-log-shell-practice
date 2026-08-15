@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-06 14:56:00.000
+timestamp_end=2026-08-06 14:56:01.171
+station=FCT2
+line=Line-D
+server_node=srv-prod-sim-01
+fixture_id=FCT2-FX-02
+operator_id=OP003
+model=NX-240
+serial_number=FCT2-20260806-0051
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=1171
+measurements=RF_RSSI=-50dBm; FW_CRC=0x5AC2674D; TEMP_RISE=16.31C; NETWORK_RTT=8ms
+log_note=Fake simulation log for offline validation only

@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-04 20:03:00.000
+timestamp_end=2026-08-04 20:03:07.725
+station=FCT1
+line=Line-C
+server_node=srv-prod-sim-02
+fixture_id=FCT1-FX-01
+operator_id=OP001
+model=Q7-CTRL
+serial_number=FCT1-20260804-0059
+test_result=FAIL
+error_code=FCT1-E110
+error_meaning=Power rail voltage below lower limit
+duration_ms=7725
+measurements=VIN=12.385V; BOOT_TIME=825ms; UART_ERR=0; SENSOR_OFFSET=-0.035
+log_note=Fake simulation log for offline validation only

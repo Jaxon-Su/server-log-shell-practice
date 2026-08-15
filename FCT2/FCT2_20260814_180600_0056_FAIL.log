@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 18:06:00.000
+timestamp_end=2026-08-14 18:06:05.845
+station=FCT2
+line=Line-B
+server_node=srv-prod-sim-04
+fixture_id=FCT2-FX-03
+operator_id=OP003
+model=R5-IO
+serial_number=FCT2-20260814-0056
+test_result=FAIL
+error_code=FCT2-E220
+error_meaning=Final firmware checksum mismatch
+duration_ms=5845
+measurements=RF_RSSI=-50dBm; FW_CRC=0x27C37493; TEMP_RISE=16.68C; NETWORK_RTT=7ms
+log_note=Fake simulation log for offline validation only

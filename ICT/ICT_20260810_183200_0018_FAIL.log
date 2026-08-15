@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-10 18:32:00.000
+timestamp_end=2026-08-10 18:32:06.624
+station=ICT
+line=Line-C
+server_node=srv-prod-sim-01
+fixture_id=ICT-FX-03
+operator_id=OP004
+model=R5-IO
+serial_number=ICT-20260810-0018
+test_result=FAIL
+error_code=ICT-E101
+error_meaning=Open circuit detected on test point
+duration_ms=6624
+measurements=TP_VIN=11.816V; TP_3V3=3.258V; R_ISENSE=100.41ohm; CONTACT_RES=0.21ohm
+log_note=Fake simulation log for offline validation only

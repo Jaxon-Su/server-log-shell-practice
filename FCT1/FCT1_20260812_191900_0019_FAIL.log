@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-12 19:19:00.000
+timestamp_end=2026-08-12 19:19:02.477
+station=FCT1
+line=Line-C
+server_node=srv-prod-sim-01
+fixture_id=FCT1-FX-05
+operator_id=OP002
+model=NX-240
+serial_number=FCT1-20260812-0019
+test_result=FAIL
+error_code=FCT1-E210
+error_meaning=UART loopback communication failed
+duration_ms=2477
+measurements=VIN=12.121V; BOOT_TIME=1140ms; UART_ERR=3; SENSOR_OFFSET=-0.053
+log_note=Fake simulation log for offline validation only

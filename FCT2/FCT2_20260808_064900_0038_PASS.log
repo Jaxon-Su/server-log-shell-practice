@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-08 06:49:00.000
+timestamp_end=2026-08-08 06:49:08.011
+station=FCT2
+line=Line-B
+server_node=srv-prod-sim-01
+fixture_id=FCT2-FX-04
+operator_id=OP003
+model=R5-IO
+serial_number=FCT2-20260808-0038
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=8011
+measurements=RF_RSSI=-61dBm; FW_CRC=0x63AC29EA; TEMP_RISE=11.93C; NETWORK_RTT=83ms
+log_note=Fake simulation log for offline validation only

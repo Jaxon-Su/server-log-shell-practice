@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-04 16:11:00.000
+timestamp_end=2026-08-04 16:11:05.262
+station=ICT
+line=Line-D
+server_node=srv-prod-sim-01
+fixture_id=ICT-FX-06
+operator_id=OP003
+model=NX-240
+serial_number=ICT-20260804-0053
+test_result=PASS
+error_code=NONE
+error_meaning=No error
+duration_ms=5262
+measurements=TP_VIN=11.827V; TP_3V3=3.327V; R_ISENSE=98.36ohm; CONTACT_RES=0.25ohm
+log_note=Fake simulation log for offline validation only

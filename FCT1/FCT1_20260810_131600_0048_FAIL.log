@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-10 13:16:00.000
+timestamp_end=2026-08-10 13:16:00.785
+station=FCT1
+line=Line-D
+server_node=srv-prod-sim-01
+fixture_id=FCT1-FX-05
+operator_id=OP003
+model=NX-240
+serial_number=FCT1-20260810-0048
+test_result=FAIL
+error_code=FCT1-E110
+error_meaning=Power rail voltage below lower limit
+duration_ms=785
+measurements=VIN=12.028V; BOOT_TIME=982ms; UART_ERR=0; SENSOR_OFFSET=-0.062
+log_note=Fake simulation log for offline validation only

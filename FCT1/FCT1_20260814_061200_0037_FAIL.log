@@ -1,0 +1,15 @@
+﻿timestamp_start=2026-08-14 06:12:00.000
+timestamp_end=2026-08-14 06:12:06.754
+station=FCT1
+line=Line-C
+server_node=srv-prod-sim-01
+fixture_id=FCT1-FX-03
+operator_id=OP005
+model=R5-IO
+serial_number=FCT1-20260814-0037
+test_result=FAIL
+error_code=FCT1-E410
+error_meaning=Relay activation feedback mismatch
+duration_ms=6754
+measurements=VIN=12.038V; BOOT_TIME=1602ms; UART_ERR=2; SENSOR_OFFSET=-0.042
+log_note=Fake simulation log for offline validation only
